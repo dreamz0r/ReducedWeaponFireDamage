@@ -38,72 +38,72 @@ class CfgAmmo
 	class Bullet_Base;
 	class Bullet_12GaugePellets: Shotgun_Base
 	{
-		damageBarrel=300;
-		damageBarrelDestroyed=300;
+		damageBarrel=600;
+		damageBarrelDestroyed=600;
 	};
 	class Bullet_12GaugeSlug: Bullet_Base
 	{
-		damageBarrel=300;
-		damageBarrelDestroyed=300;
+		damageBarrel=600;
+		damageBarrelDestroyed=600;
 	};
 	class Bullet_556x45: Bullet_Base
 	{
-		damageBarrel=125;
-		damageBarrelDestroyed=125;
+		damageBarrel=250;
+		damageBarrelDestroyed=250;
 	};
 	class Bullet_545x39: Bullet_Base
 	{
-		damageBarrel=107;
-		damageBarrelDestroyed=107;
+		damageBarrel=214.28572;
+		damageBarrelDestroyed=214.28572;
 	};
 	class Bullet_762x54: Bullet_Base
 	{
-		damageBarrel=250;
-		damageBarrelDestroyed=250;
+		damageBarrel=500;
+		damageBarrelDestroyed=500;
 	};
 	class Bullet_308Win: Bullet_Base
 	{
-		damageBarrel=250;
-		damageBarrelDestroyed=250;
+		damageBarrel=500;
+		damageBarrelDestroyed=500;
 	};
 	class Bullet_762x39: Bullet_Base
 	{
-		damageBarrel=250;
-		damageBarrelDestroyed=250;
+		damageBarrel=500;
+		damageBarrelDestroyed=500;
 	};
 	class Bullet_45ACP: Bullet_Base
 	{
-		damageBarrel=95;
-		damageBarrelDestroyed=95;
+		damageBarrel=187.5;
+		damageBarrelDestroyed=187.5;
 	};
 	class Bullet_357: Bullet_Base
 	{
-		damageBarrel=95;
-		damageBarrelDestroyed=95;
+		damageBarrel=187.5;
+		damageBarrelDestroyed=187.5;
 	};
 	class Bullet_9x19: Bullet_Base
 	{
-		damageBarrel=85;
-		damageBarrelDestroyed=85;
+		damageBarrel=166.66667;
+		damageBarrelDestroyed=166.66667;
 	};
 	class Bullet_380: Bullet_Base
 	{
-		damageBarrel=75;
-		damageBarrelDestroyed=75;
+		damageBarrel=150;
+		damageBarrelDestroyed=150;
 	};
 	class Bullet_22: Bullet_Base
 	{
-		damageBarrel=60;
-		damageBarrelDestroyed=60;
+		damageBarrel=115.38461;
+		damageBarrelDestroyed=115.38461;
 	};
 	class Bullet_9x39AP: Bullet_Base
 	{
-		damageBarrel=125;
-		damageBarrelDestroyed=125;
+		damageBarrel=250;
+		damageBarrelDestroyed=250;
 	};
 	class Bullet_9x39: Bullet_Base
 	{
-		damageBarrel=125;
-		damageBarrelDestroyed=125;
+		damageBarrel=250;
+		damageBarrelDestroyed=250;
 	};
 };
